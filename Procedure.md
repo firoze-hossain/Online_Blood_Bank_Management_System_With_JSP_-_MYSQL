@@ -1,6 +1,6 @@
-You can download the project
-Then extract it
-Import project with as general"Existing project in workspace" with eclipse
-Import SQL file in MySQL workbench "Go to server=>Data import=>selct import from self-contained file"
-Then run the project with tomcat server
-For admin panel(Username"admin" and password("admin"))
+1. You can download the project
+2. Then extract it
+3. Import project with as general"Existing project in workspace" with eclipse
+4. Import SQL file in MySQL workbench "Go to server=>Data import=>selct import from self-contained file"
+5. Then run the project with tomcat server
+6. For admin panel(Username"admin" and password("admin"))
